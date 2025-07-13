@@ -47,7 +47,7 @@ export default function Home() {
 
             <div className="w-full h-full rounded-full overflow-hidden relative z-10">
               <Image
-                src="/placeholder.svg?height=220&width=220"
+                src="/anshul.JPG"
                 alt="Anshul Shrivastava"
                 width={220}
                 height={220}

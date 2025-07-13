@@ -37,7 +37,7 @@ export default function EnhancedSliderButton() {
         setIsDownloading(false)
         // Trigger actual download here
         const link = document.createElement("a")
-        link.href = "/resume.pdf" // Replace with actual resume path
+        link.href = "/anshul resume.pdf" // Replace with actual resume path
         link.download = "Anshul_Shrivastava_Resume.pdf"
         link.click()
 

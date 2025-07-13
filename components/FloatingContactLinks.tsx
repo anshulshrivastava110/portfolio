@@ -7,19 +7,19 @@ export default function FloatingContactLinks() {
   const contactLinks = [
     {
       icon: Mail,
-      href: "mailto:anshulshrivastava8055@gmail.com",
+      href: "anshulshrivastava8055@gmail.com",
       color: "from-red-400 to-red-600",
       label: "Email",
     },
     {
       icon: Linkedin,
-      href: "#",
+      href: "www.linkedin.com/in/anshul-shrivastava-039030359",
       color: "from-blue-400 to-blue-600",
       label: "LinkedIn",
     },
     {
       icon: Github,
-      href: "#",
+      href: "https://github.com/anshulshrivastava110",
       color: "from-gray-400 to-gray-600",
       label: "GitHub",
     },
